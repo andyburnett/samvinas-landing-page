@@ -134,7 +134,7 @@ section {
 
 .hero {
     /* Set the background image */
-    background-image: url('../static/images/banner.png'); 
+    background-image: url('images/banner.png'); 
 
     /* Control how the image scales */
     background-size: cover; /* This makes the image cover the entire element, cropping if necessary */
