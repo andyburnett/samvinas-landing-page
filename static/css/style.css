@@ -38,14 +38,14 @@ body {
 
 .hero h1 {
     font-weight: 800;
-    color: #212529;
+    color: #ffffff;
     margin-bottom: 1.5rem;
     line-height: 1.2;
 }
 
 .hero .lead {
     font-size: 1.25rem;
-    color: #6c757d;
+    color: #ffffff;
     margin-bottom: 2rem;
 }
 
